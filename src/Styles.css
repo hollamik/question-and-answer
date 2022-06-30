@@ -1,0 +1,54 @@
+body{
+    background-color: powderblue;
+    margin: 100 50px 50px 50px;
+
+}
+#nav{
+    background: coral;
+    height: 80px;
+    font-family: monospace;
+    color: #fff;
+    font-size: 25px;
+}
+
+#option{
+    padding: 15px;
+    border: 2px solid #f36;
+    margin: 10px;
+    border-radius: 30px;
+    background: rgb(106, 240, 229);
+}
+#option:hover{
+    background: rgb(27, 20, 220);
+    cursor: pointer;
+}
+
+#question{
+    border-radius: 48%;
+    padding: 40px 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: 2px solid crimson;
+    margin: 30px 10px 40px;
+}
+button{
+    background-color: rgb(103, 95, 212);
+    border-radius:50px;
+    color: white;
+}
+.wrapper{
+    border-radius: 5%;
+    border: 3px solid rgb(4, 4, 4);
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.btn{
+    margin: 0px 0px 0px 220px;
+}
